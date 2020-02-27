@@ -1,6 +1,6 @@
 # {{cookiecutter.project_name}}
 
-_Date: {% now 'cet', '%Y-%m-%d' %}_  
+_Date: {% now 'utc', '%Y-%m-%d' %}_  
 _Author: {{cookiecutter.name}} ({{cookiecutter.email}})_
 
 {{cookiecutter.project_short_description}}
