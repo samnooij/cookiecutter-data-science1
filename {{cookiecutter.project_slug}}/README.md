@@ -1,9 +1,9 @@
 # {{cookiecutter.project_name}}
 
 _Date: {% now 'utc', '%Y-%m-%d' %}_  
-{%- if cookiecutter.email != " " -%}
+{% if cookiecutter.email != " " -%}
 _Author: {{cookiecutter.name}} ({{cookiecutter.email}})_
-{%- else -%}
+{% else -%}
 _Author: {{cookiecutter.name}}_
 {% endif %}
 
