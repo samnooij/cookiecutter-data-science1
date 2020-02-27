@@ -6,3 +6,7 @@ _Author: Sam Nooij_
 A cookiecutter for creating data analysis projects, inspired by [good-enough-project](https://github.com/bvreede/good-enough-project), drivendata's [cookiecutter-data-science](https://drivendata.github.io/cookiecutter-data-science/), [Noble, 2009](https://doi.org/10.1371/journal.pcbi.1000424) and the RIL Labs [blog post](https://rillabs.com/posts/organizing-compbio-projects) from 2015.
 
 ---
+
+## User manual
+
+_Note: please fill in a space `' '` as email address if you don't want it in the README file._
